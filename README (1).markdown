@@ -58,10 +58,8 @@ A creative vibe in progress! This project visualizes memory as tree structures, 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📬 Connect with Me
-- ✉️ **Email**: stebyvarghese@example.com
+- ✉️ **Email**: stebyvarghese1@gmail.com
 - 💼 **[LinkedIn](https://linkedin.com/in/stebyvarghese)**
-- 🐦 **[Twitter/X](https://x.com/stebyvarghese)**
-- 🌐 **[Portfolio](https://stebyvarghese.dev)**
 
 ## 🎉 Fun Vibe
 When I’m not coding up a storm, I’m vibing with Raspberry Pi experiments 🛠️ or getting lost in sci-fi books 📖, fueled by coffee and dreams of AI-powered adventures! ☕✨
