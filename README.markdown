@@ -569,9 +569,13 @@ An experimental exploration transforming complex computer memory allocations and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stebyvarghese1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" alt="Steby's GitHub Stats" height="175"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=stebyvarghese1&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" alt="Steby's GitHub Stats" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stebyvarghese1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8" alt="Top Languages" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=stebyvarghese1&theme=tokyonight&hide_border=true" alt="Steby's GitHub Streak" height="175"/>
+
+<br><br>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stebyvarghese1&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=94A3B8" alt="Top Languages" height="150"/>
 
 </div>
 
